@@ -1,2 +1,2 @@
-SeedGenerator is a easy seed generator for .net core
+SeedGenerator is an easy-to-use seed generator for .NET Core.
 ![alt text](demo.png)
